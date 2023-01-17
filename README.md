@@ -1,5 +1,8 @@
 ### Hi wold 👋
 
+
+Curriculum: https://jdfuentes12.github.io/CurriculumVitae.github.io/
+
 <!--
 **jdfuentes12/jdfuentes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
