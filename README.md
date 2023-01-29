@@ -3,7 +3,9 @@
 
 Curriculum: https://jdfuentes12.github.io/CurriculumVitae.github.io/
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdfuentes12)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdfuentes12&show_icons=true&theme=merko)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdfuentes12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jdfuentes12/jdfuentes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
