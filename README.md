@@ -1,7 +1,9 @@
-### Hi wold 👋
+### Hi wold, I'm Jose 💻👋
 
 
 Curriculum: https://jdfuentes12.github.io/CurriculumVitae.github.io/
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdfuentes12)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jdfuentes12/jdfuentes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
