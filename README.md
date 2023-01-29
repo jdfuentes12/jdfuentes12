@@ -2,6 +2,7 @@
 
 
 Curriculum: https://jdfuentes12.github.io/CurriculumVitae.github.io/
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdfuentes12&show_icons=true&theme=merko)
 <br>
