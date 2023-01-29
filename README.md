@@ -11,6 +11,7 @@ Curriculum: https://jdfuentes12.github.io/CurriculumVitae.github.io/
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/_Josef27)
 [![Instagram URL](https://img.shields.io/badge/-__jose.27-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/__jose.27/?hl=es)
 [![Linkedin URL](https://img.shields.io/badge/-JoseFuentes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-fuentes-ab651b150/)
+[![Gmail Badge](https://img.shields.io/badge/-jose.27orozoco1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose.27orozco1@gmail.com)](mailto:jose.27orozco@gmail.com)
 
 <!--
 **jdfuentes12/jdfuentes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
