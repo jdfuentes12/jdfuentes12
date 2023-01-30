@@ -1,4 +1,4 @@
-### Hi wold, I'm Jose 💻👋
+# Hi wold, I'm Jose 💻👋
 
 
 Curriculum: https://jdfuentes12.github.io/CurriculumVitae.github.io/
