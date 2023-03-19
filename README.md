@@ -1,6 +1,6 @@
 # Hi wold, I'm Jose 💻👋
 
-
+My name is José Fuentes, I am a 3rd year student of engineering in sciences and systems.
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
