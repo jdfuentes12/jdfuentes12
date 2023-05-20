@@ -10,7 +10,9 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdfuentes12&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-Curriculum: https://jdfuentes12.github.io/CurriculumVitae.github.io/
+<li><a href="https://jdfuentes12.github.io/CurriculumVitae.github.io/">Curriculum</a></li>
+<br>
+<br>
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/_Josef27)
 [![Instagram URL](https://img.shields.io/badge/-__jose.27-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/__jose.27/?hl=es)
