@@ -1,4 +1,4 @@
-# Hi wold, I'm Jose 💻👋
+# Hi wold 💻👋
 
 ### My name is José Fuentes, I am a 3rd year student of engineering in sciences and systems.
 
