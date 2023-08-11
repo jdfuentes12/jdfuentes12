@@ -4,12 +4,10 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-**Github Stats:**
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdfuentes12&show_icons=true&theme=merko)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdfuentes12&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jdfuentes12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jdfuentes12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jdfuentes12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <li><a href="https://jdfuentes12.github.io/CurriculumVitae.github.io/">Curriculum</a></li>
 <br>
 <br>
